@@ -1,7 +1,7 @@
 version: "3"
 
 services:
-  octobot:
+  octobotx:
     image: drakkarsoftware/octobot:stable
     labels:
       - traefik.enable=true
