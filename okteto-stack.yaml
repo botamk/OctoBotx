@@ -1,5 +1,5 @@
 services:
-  octobot:
+  octobotx:
     public: true
     image: $DOCKER_IMAGE
     environment:
